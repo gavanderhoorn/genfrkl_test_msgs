@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package>
+  <name>genkl_test_msgs</name>
+  <version>0.0.1</version>
+  <description>The genkl_test_msgs package</description>
+  <author>G.A. vd. Hoorn (TU Delft Robotics Institute)</author>
+  <maintainer email="g.a.vanderhoorn@tudelft.nl">G.A. vd. Hoorn (TU Delft Robotics Institute)</maintainer>
+  <license>BSD</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <build_depend>message_generation</build_depend>
+  <run_depend>message_runtime</run_depend>
+
+  <export>
+  </export>
+</package>
