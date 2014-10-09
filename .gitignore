@@ -1,0 +1,4 @@
+*.kl
+._*
+*~
+CATKIN_IGNORE
