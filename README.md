@@ -1,4 +1,4 @@
-A set of test messages for `genkl`.
+A set of test messages for `genfrkl`.
 
 Small subset of the standard set of [simple_message][] messages.
 
